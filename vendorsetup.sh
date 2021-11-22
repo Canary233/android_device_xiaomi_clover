@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_clover-userdebug
-add_lunch_combo omni_clover-eng
+#add_lunch_combo omni_clover-userdebug
+#add_lunch_combo omni_clover-eng
