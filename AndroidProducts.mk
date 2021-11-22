@@ -18,3 +18,8 @@
 
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_clover.mk
+     
+COMMON_LUNCH_CHOICES := \
+    omni_clover-user \
+    omni_clover-userdebug \
+    omni_clover-eng
